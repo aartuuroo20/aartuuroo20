@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
-<h3 align="center">A passionate computer science student from Madrid, Spain</h3>
+<h3 align="center">Graduated  in computer science from Madrid, Spain</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
